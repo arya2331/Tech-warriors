@@ -17,3 +17,5 @@ for f in checkFiles:
 		print('[OK]', f)
 	else:
 		print('[ERR]', f)
+		
+		
